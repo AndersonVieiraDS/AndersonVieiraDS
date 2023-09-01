@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson Vieira 👋
 
 - 🔭 Hoje trabalho na indústria
-- 🌱 Estudando front-end (HTML5, CSS3, Javascript, NodeJs, React Native )
+- 🌱 Estudando front-end e back-end: HTML5, CSS3, Javascript, NodeJs, Web Services, Banco de dados, React Native (App Web)
 - 🏆 Jogador profissional pernambucano de xadrez
 
 <div align="center">
